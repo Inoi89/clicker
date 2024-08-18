@@ -1,0 +1,53 @@
+﻿{
+  "UiElements": [
+    {
+      "Name": "arena_init",
+      "BmpPath": "bmp/arena_init.bmp",
+      "RequiresTextAnalysis": false,
+      "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "Name": "forest_button",
+      "BmpPath": "bmp/forest.bmp",
+      "RequiresTextAnalysis": false,
+      "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "Name": "bg_button",
+      "BmpPath": "bmp/arena_bg.bmp",
+      "RequiresTextAnalysis": false,
+      "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "Name": "bg_open_button",
+      "BmpPath": "bmp/arena_open.bmp",
+      "RequiresTextAnalysis": false,
+      "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "Name": "bg_init_button",
+      "BmpPath": "bmp/bg_init.bmp",
+      "RequiresTextAnalysis": false,
+      "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "Name": "combat_init",
+      "BmpPath": "bmp/combat_init.bmp",
+      "RequiresTextAnalysis": true,
+      "OffsetX": 5,
+      "OffsetY": 0
+    },
+    {
+      "Name": "combat_start",
+      "BmpPath": "bmp/combat_start.bmp",
+      "RequiresTextAnalysis": false,
+      "OffsetX": 0,
+      "OffsetY": 0
+    }
+  ]
+}
